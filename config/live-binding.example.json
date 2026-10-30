@@ -1,0 +1,7 @@
+{
+  "fresh_local_binding": false,
+  "account_native_id": "<new-local-account-id>",
+  "account_display_name": "<new-local-account-name>",
+  "friend_native_id": "<new-local-source-id>",
+  "friend_display_name": "<new-local-source-name>"
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+.env
+*.log
+*.pid
+.local/
+
+live-binding.json
+credential.dpapi
+background-private/
+downloads/
+*.tsbuildinfo
